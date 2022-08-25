@@ -5,5 +5,5 @@ Yet to be released!
 
 ## TO-DO
 
-✅ Start With A Repo 🥳 
+✅ Start With A Repo 🥳 <br>
 ⏳ Setup ADB Connectivity
