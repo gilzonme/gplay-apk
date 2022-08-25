@@ -1,1 +1,3 @@
-# google-play-apk-scraper
+# Google Play Apk Scraper
+
+Yet to be released!
