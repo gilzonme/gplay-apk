@@ -1,3 +1,3 @@
-# Google Play Apk Scraper
+# Google Play APK Scraper
 
 Yet to be released!
