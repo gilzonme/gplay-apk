@@ -1,0 +1,29 @@
+{
+  "name": "gplay-apk",
+  "version": "0.0.1-a",
+  "description": "Scrape APK from Google Playstore Directly with Android Studio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gilzonme/gplay-apk.git"
+  },
+  "keywords": [
+    "android",
+    "apk",
+    "google",
+    "play",
+    "apk",
+    "download",
+    "apk",
+    "scraper"
+  ],
+  "author": "gilzonme",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gilzonme/gplay-apk/issues"
+  },
+  "homepage": "https://github.com/gilzonme/gplay-apk#readme"
+}
